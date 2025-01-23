@@ -2,59 +2,59 @@
   "products": [
     {
       "id": 1,
-      "title": "iPhone 9",
-      "description": "An apple mobile which is nothing like apple",
-      "price": 549,
-      "thumbnail": "https://cdn.dummyjson.com/data/product-images/1/thumbnail.jpg",
+      "title": "Apple",
+      "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+      "price": 1.99,
+      "thumbnail":  "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png",
       "quantity": 1
     },
     {
       "id": 2,
-      "title": "iPhone X",
-      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-      "price": 899,
-      "thumbnail": "https://cdn.dummyjson.com/data/product-images/2/thumbnail.jpg",
+      "title": "Beef Steak",
+      "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+      "price": 12.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/thumbnail.png",
       "quantity": 1
     },
     {
       "id": 3,
-      "title": "Samsung Universe 9",
-      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-      "price": 1249,
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/data/product-images/3/thumbnail.jpg",
+      "title": "Cat Food",
+      "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+      "category": "groceries",
+      "price": 8.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png",
       "quantity": 1
     },
     {
       "id": 4,
-      "title": "OPPOF19",
-      "description": "OPPO F19 is officially announced on April 2021.",
-      "price": 280,
-      "thumbnail": "https://cdn.dummyjson.com/data/product-images/4/thumbnail.jpg",
+      "title": "Green Chili Pepper",
+      "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+      "price": 0.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png",
       "quantity": 1
     },
     {
       "id": 5,
-      "title": "Huawei P30",
-      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-      "price": 499,
-      "thumbnail": "https://cdn.dummyjson.com/data/product-images/5/thumbnail.jpg",
+      "title": "Eggs",
+      "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+      "price": 2.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Eggs/thumbnail.png",
       "quantity": 1
     },
     {
       "id": 6,
-      "title": "MacBook Pro",
-      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-      "price": 1749,
-      "thumbnail": "https://cdn.dummyjson.com/data/product-images/6/thumbnail.jpg",
+      "title": "Fish Steak",
+      "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+      "price": 14.99,
+      "thumbnail":  "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png",
       "quantity": 1
     },
     {
       "id": 7,
-      "title": "Samsung Galaxy Book",
-      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
-      "price": 1499,
-      "thumbnail": "https://cdn.dummyjson.com/data/product-images/7/thumbnail.jpg",
+      "title": "Ice Cream",
+      "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+      "price": 5.49,
+      "thumbnail":"https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/thumbnail.png",
       "quantity": 1
     }
   ]
