@@ -1,19 +1,19 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbar from './Component/Navbar';
-import Products from './Pages/Products';
-import Footer from './Component/Footer';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Cart from './Pages/Cart';
+import "bootstrap/dist/css/bootstrap.min.css";
+import Navbar from "./Component/Navbar";
+import Products from "./Pages/Products";
+import Footer from "./Component/Footer";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Cart from "./Pages/Cart";
 
 const App = () => {
   return (
     <BrowserRouter>
-      <Navbar/>
+      <Navbar />
       <Routes>
-        <Route path="/" element={<Products></Products>}/>
-        <Route path="/cart" element={<Cart></Cart>}/>
+        <Route path="/" element={<Products></Products>}></Route>
+        <Route path="/cart" element={<Cart></Cart>}></Route>
       </Routes>
-      <Footer/>
+      <Footer />
     </BrowserRouter>
   );
 };
